@@ -78,7 +78,7 @@ li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<INPUT TYPE="button" NAME="button1" VALUE="Save data!" onClick="testIt()">
  &nbsp;
             </FORM>
-            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="6">click to see my </font><a href="https://github.com/AlirezaAsgarian" target="_blank"><span style="font-size:36;"><b><font color="red">github</font></b></span></a><font size="6"></font></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="6">click to see my </font><a href="https://github.com/AlirezaAsgarian" target="_blank"><span style="font-size:36;"><b><font color="red">github</font></b></span></a><font size="6"></font></p>
             <p><font size="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;click to see my </font><b><a href="https://stackoverflow.com/users/17472262/alireza-askarian" target="_blank"><font color="red"><span style="font-size:26;">stackloverflow</span></font></a></b></p>
             <p>&nbsp;</p>
         </td>
