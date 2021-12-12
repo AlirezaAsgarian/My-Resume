@@ -1,0 +1,93 @@
+<html>
+
+<head>
+<META NAME="date" CONTENT="">
+<META NAME="channel" CONTENT="Web Developer">
+<META NAME="author" CONTENT="JavaScript Source Code 3000">
+<META NAME="section" CONTENT="Messages">
+<META NAME="description" CONTENT="">
+
+
+<title>Menu :</title>
+<meta name="generator" content="Alireza Askarian">
+<meta name="Alireza-theme" content="Theme\Soft\Soft01">
+<style><!--
+body { font-family:±¼¸²; font-size:11px; color:rgb(98,94,81); background-color:rgb(231,227,216); }
+h1 { font-weight:bolder; font-size:16px; color:rgb(98,94,81); }
+h2 { font-weight:bolder; font-size:12px; color:rgb(98,94,81); text-decoration:underline; }
+table.namo-table { background-color:rgb(196,192,181); border-width:1; border-color:rgb(196,192,181); border-style:dashed; }
+table.namo-table td { font-family:±¼¸²; font-size:11px; background-color:rgb(218,213,205); }
+table.namo-table th { font-family:±¼¸²; font-weight:bolder; font-size:11px; background-color:rgb(222,208,185); }
+span.namo-link, a:link { font-family:±¼¸²; font-size:11px; color:rgb(98,94,81); text-decoration:underline; }
+span.namo-visited, a:visited { font-family:±¼¸²; font-size:11px; color:rgb(179,175,166); }
+span.namo-active, a:active { font-size:11px; color:rgb(191,147,115); text-decoration:underline; }
+a:hover { font-size:11px; color:rgb(191,147,115); text-decoration:underline; }
+li.namo-list1 { list-style-image:url('nav/bullet1.gif'); }
+li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
+-->
+</style>
+
+</head>
+
+<body>
+<table border="0" width="1468" height="1350" align="center" bgcolor="#FFFF99">
+    <tr>
+        <td width="482" height="479" valign="top">
+            <p align="center">&nbsp;</p>
+            <p align="center"><font size="6">Menu :</font></p>
+            <p align="center"><a href="noname2.htm" target="_self"><font size="4"><span style="font-size:28;">1. Intruduction</span></font></a><font size="7"><span style="font-size:28;"></span></font></p>
+            <p align="center"><a href="noname3.htm" target="_self"><font size="4"><span style="font-size:28;">2.Achievements</span></font></a><font size="7"><span style="font-size:28;"></span></font></p>
+            <p align="center"><a href="noname4.htm" target="_self"><font size="4"><span style="font-size:28;">3.Skills</span></font></a></p>
+        </td>
+        <td width="482" height="479">
+            <p align="center"> &nbsp;&nbsp;<img src="WhatsApp Image 2021-12-07 at 11.45.36 PM.jpeg" width="214" height="296" border="0" align="middle"></p>
+            <p align="center"><font size="6">Askarian HomePage</font></p>
+            <p align="center"><font size="6">Name : Alireza Askarian</font></p>
+        </td>
+        <td width="482" height="479">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="482" height="368">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="482" height="368">
+            <p align="center"><font size="5" face="Bahnschrift">Welcome to the Alireza Askarian Homepage </font><font size="5"></font></p>
+            <p align="center"><font size="5">you can click on the item's of menu and see </font></p>
+            <p align="center"><font size="5">some&nbsp;information about me </font></p>
+        </td>
+        <td width="482" height="368">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="482" height="490">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="482" height="490">
+            <p>&nbsp;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font size="5" color="black">Contact Us</font></b></p>
+            <form name="form1">
+                <p align="center">&nbsp;&nbsp;<input type="text" name="infotext1" size="40">  &nbsp;&nbsp;&nbsp;: Email</p>
+            </form>
+            <form name="form2">
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="infotext1" size="40">  &nbsp;&nbsp;&nbsp;:&nbsp;Name&nbsp;</p>
+            </form>
+            <FORM>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<INPUT TYPE="button" NAME="button1" VALUE="Save data!" onClick="testIt()">
+ &nbsp;
+            </FORM>
+            <p>&nbsp;</p>
+        </td>
+        <td width="482" height="490">
+            <p align="center">
+            <p>&nbsp;</p>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+
+
+</html>

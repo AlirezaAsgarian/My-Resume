@@ -1,0 +1,49 @@
+<html>
+
+<head>
+<title>Name: : </title>
+<meta name="generator" content="Namo WebEditor">
+<script language="JavaScript">
+<!--
+function namosw_infotext()
+{
+  var username;
+  var type, i, top, obj;
+  for (i = 1, top = 0; i < namosw_infotext.arguments.length; i += 2) {
+    obj = eval('document.'+namosw_infotext.arguments[i]);
+    if (obj == null) continue;
+    type = namosw_infotext.arguments[i+1];
+    if (type == 'username') {
+      if (username == null) 
+        username = prompt(namosw_infotext.arguments[0], "");
+      username = (username == null) ? '' : username;
+      obj.value = username;
+    } else if (type == 'moddate') {
+      obj.value = document.lastModified;
+    } else if (type == 'ipaddr' || type == 'hostname') {
+      if (navigator.appName.indexOf('Netscape', 0) != -1) {
+        var host  = java.net.InetAddress.getLocalHost();
+        obj.value = (type == 'ipaddr') ? host.getHostAddress() : host.getHostName();
+      } else {
+        obj.value = '';
+      }
+    }
+  }
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red" OnLoad="namosw_infotext('username', 'cu.infotext1', 'username')">
+<form name="cu">
+    <p align="left">Name:&nbsp;: <input type="text" name="infotext1" size="40"></p>
+    <p>&nbsp;</p>
+    <p align="left">Email : &nbsp;<input type="text" name="infotext2" size="40"></p>
+    <p align="left">&nbsp;</p>
+    <p>&nbsp;</p>
+</form>
+<p>&nbsp;</p>
+</body>
+
+</html>

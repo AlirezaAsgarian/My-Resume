@@ -1,0 +1,93 @@
+<html>
+
+<head>
+<title>Achivements </title>
+<meta name="generator" content="Alireza Askarian">
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<table border="0" width="1482" height="1234" bgcolor="#FFFF66">
+    <tr>
+        <td width="482" height="228">
+            <p align="center"><font size="5">Achivements </font></p>
+        </td>
+        <td width="482" height="228">
+            <p align="center"><i><font size="5" color="#4F81BD"><b>In the name of God </b></font></i></p>
+            <p align="center"><i><font size="5" color="#4F81BD"><b>welcome to Alireza Askarian's homepage</b></font></i></p>
+            <p>&nbsp;</p>
+        </td>
+        <td width="496" height="228">
+            <p align="center"><font size="3">Menu :</font></p>
+            <p align="center"><font size="4"><a href="noname2.htm" target="_self">1. Intruduction</a></font></p>
+            <p align="center"><font size="4"><a href="noname4.htm" target="_self">2.Skillis</a></font></p>
+            <p align="center"><font size="4"><a href="noname1.htm" target="_self">back to menu</a></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="482" height="393">
+            <p align="center"><img src="WhatsApp Image 2021-12-09 at 2.12.56 AM.jpeg" width="287" height="262" border="0"></p>
+        </td>
+        <td width="482" height="393">
+            <table border="1" width="560" height="398" bordercolorlight="#990000">
+                <tr>
+                    <td width="233">
+                        <h2 align="center"><font size="5">Name of event </font></h2>
+                    </td>
+                    <td width="233">
+                        <h2 align="center">Achivement</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="233">
+                        <p align="center"><font size="5">konkur</font></p>
+                    </td>
+                    <td width="233">
+                        <p align="center"><font size="5">17th grade </font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="233">
+                        <p align="center"><font size="5">Basketball</font></p>
+                    </td>
+                    <td width="233">
+                        <p align="center"><font size="5">member of IQ petrol team</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="233">
+                        <p align="center"><font size="5">Programing </font></p>
+                    </td>
+                    <td width="233">
+                        <p align="center"><font size="5">Passing the C++ course</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="233">
+                        <p align="center"><font size="5">University</font></p>
+                    </td>
+                    <td width="233">
+                        <p align="center"><font size="5">Sharif &nbsp;Univerity of technology</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="496" height="393">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="482" height="603">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="482" height="603">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="496" height="603">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+
+</html>
